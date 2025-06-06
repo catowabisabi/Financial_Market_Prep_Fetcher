@@ -1,0 +1,25 @@
+# Folders to ignore
+data/
+stock_data/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Files to ignore
+config/Key.txt
+*.json
+
+# Keep specific files
+!requirements.txt
+!analysis.ipynb
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Other
+*.ipynb
+
+# IDE specific
+.vscode/
+.idea/ 

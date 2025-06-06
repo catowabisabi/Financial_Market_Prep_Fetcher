@@ -1,0 +1,6 @@
+pandas
+requests
+xlsxwriter
+matplotlib
+seaborn
+jupyterlab 
